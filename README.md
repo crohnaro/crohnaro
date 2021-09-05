@@ -1,6 +1,5 @@
-### Hello there! I'm Vinicios
-- 🔭 I’m currently working on Java, JavaScript, HTML, CSS and Bootstrap
-- 🌱 I’m currently learning PHP
+###                                                     Hello there! I'm Vinicios
+
 <div>
    <img alt="Me" height="350" widht"360" src="https://64.media.tumblr.com/2d0af9c90d1b1107313cc20bda01548a/tumblr_outwxnanpp1u79o2lo1_1280.gifv">
 </div>
@@ -9,21 +8,20 @@
    <a href -"https://github.com/crohnaro">
    <img height="123em" src="https://github-readme-stats.vercel.app/api?username=crohnaro&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
    <img height="123em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=crohnaro&layout=compact&langs_count=16&theme=dark"/>
-   
 </div>
   
   
- <div style ="display : inline_block"><br>
-    <img align="center" alt="Vini-JS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
-    <img align="center" alt="Vini-HTML" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg">
-    <img align="center" alt="Vini-CSS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg">
-    <img align="center" alt="Vini-Bs" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg">
-    <img align="center" alt="Vini-JAVA" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
-    <img align="center" alt="Vini-PHP" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg">
+<div style ="display : inline_block"><br>
+    <img align="center" alt="Vini-JS"  src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+    <img align="center" alt="Vini-HTML"  src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+    <img align="center" alt="Vini-CSS"  src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+    <img align="center" alt="Vini-Bs"  src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
+    <img align="center" alt="Vini-JAVA"  src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
+    <img align="center" alt="Vini-PHP"  src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
+</div>
     
-   
-   ##
-   
+   ###
+  
 <div>
   <a href="https://www.linkedin.com/in/vinicios-cararine/" target-"_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://www.instagram.com/me_and_my_hatred/" target-"_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
