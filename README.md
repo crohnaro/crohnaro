@@ -1,16 +1,30 @@
-###                                                     Hello there! I'm Vinicios
+##                                                    Olá! Me chamo Vinicios!
 
-<div>
-   <img alt="Me" height="350" widht"360" src="https://64.media.tumblr.com/2d0af9c90d1b1107313cc20bda01548a/tumblr_outwxnanpp1u79o2lo1_1280.gifv">
-</div>
+   <div>
+   <img align ="right" alt="Me" height="220" widht"230" src="https://64.media.tumblr.com/2d0af9c90d1b1107313cc20bda01548a/tumblr_outwxnanpp1u79o2lo1_1280.gifv">
+   <br>
+   <br>
+   <ul>
+      <li> Analista de Redes
+      <li> Dev Back-End / FullStack
+      <li> Graduando Sistemas da Informação
+      <li> Apaixonado pelo desenvolvimento, e musico nas horas vagas
+   </ul>
+   <br>
+       
+   
+   </div>
 
-<div>
+## Estatísticas
+
+<div style ="display : inline_block">
    <a href -"https://github.com/crohnaro">
-   <img height="123em" src="https://github-readme-stats.vercel.app/api?username=crohnaro&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-   <img height="123em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=crohnaro&layout=compact&langs_count=16&theme=dark"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=crohnaro&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=crohnaro&layout=compact&langs_count=16&theme=dark"/>
 </div>
   
-  
+## Linguagens
+   
 <div style ="display : inline_block"><br>
     <img align="center" alt="Vini-JS"  src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
     <img align="center" alt="Vini-HTML"  src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
@@ -20,7 +34,7 @@
     <img align="center" alt="Vini-PHP"  src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
 </div>
     
-   ###
+   ## Contato
   
 <div>
   <a href="https://www.linkedin.com/in/vinicios-cararine/" target-"_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
