@@ -15,8 +15,7 @@
    
    </div>
 
-## 
-## Estatísticas
+##  Estatísticas
 
 <div style ="display : inline_block">
    <a href -"https://github.com/crohnaro">
