@@ -15,6 +15,7 @@
    
    </div>
 
+## 
 ## Estatísticas
 
 <div style ="display : inline_block">
