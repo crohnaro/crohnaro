@@ -6,7 +6,7 @@
    <br>
    <ul>
       <li> Analista de Redes
-      <li> Dev Back-End / FullStack
+      <li> Dev Front-End
       <li> Graduando Sistemas da Informação
       <li> Apaixonado pelo desenvolvimento, e musico nas horas vagas
    </ul>
