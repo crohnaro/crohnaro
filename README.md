@@ -10,6 +10,8 @@
       <li> Apaixonado pelo desenvolvimento, e musico nas horas vagas
    </ul>
    <br>
+   <br>
+   <br>
        
    
    </div>
