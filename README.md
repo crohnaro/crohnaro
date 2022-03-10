@@ -20,7 +20,7 @@
 
 <div style ="display : inline_block">
    <a href -"https://github.com/crohnaro">
-   <img width="450px" height="200px" src="https://github-readme-stats.vercel.app/api?username=crohnaro&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+   <img width="430px" height="200px" src="https://github-readme-stats.vercel.app/api?username=crohnaro&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
    <img width="400px" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=crohnaro&layout=compact&langs_count=16&theme=dark"/>
 </div>
   
