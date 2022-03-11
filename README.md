@@ -19,7 +19,7 @@
 ##  Estatísticas
 
 <div style ="display : inline_block">
-   <img align="center"  src="https://github-readme-stats.vercel.app/api?username=crohnaro&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+   <img align="center" src= "https://github-readme-stats.vercel.app/api?username=crohnaro&theme=dark&show_icons=true)]"/>
   
 </div>
 
