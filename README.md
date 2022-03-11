@@ -18,10 +18,14 @@
 
 ##  Estatísticas
 
-<div style ="display : inline_block",
-   <a href -"https://github.com/crohnaro">
-   <img align="center" height="235rem" src="https://github-readme-stats.vercel.app/api?username=crohnaro&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-   <img align="center" height="235rem"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=crohnaro&layout=compact&langs_count=16&theme=dark"/>
+<div style ="display : inline_block">
+   <img align="center"  src="https://github-readme-stats.vercel.app/api?username=crohnaro&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  
+</div>
+
+##  Linguagens mais usadas
+<div>
+    <img align="center" width="500px"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=crohnaro&layout=compact&langs_count=16&theme=dark"/>
 </div>
   
 ## Linguagens
