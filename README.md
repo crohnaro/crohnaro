@@ -18,12 +18,6 @@
 
 ##  Estatísticas
 
-<div style ="display : inline_block">
-   <img align="center" src= "https://github-readme-stats.vercel.app/api?username=crohnaro&theme=dark&show_icons=true)]"/>
-  
-</div>
-
-##  Linguagens mais usadas
 <div>
     <img align="center" width="500px"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=crohnaro&layout=compact&langs_count=16&theme=dark"/>
 </div>
