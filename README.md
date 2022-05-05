@@ -5,7 +5,7 @@
    <br>
    <br>
    <ul>
-      <li> Dev Front-End
+      <li> Desenvolvedor Front-End
       <li> Graduando Sistemas da Informação
       <li> Apaixonado pelo desenvolvimento, e musico nas horas vagas
    </ul>
@@ -18,7 +18,7 @@
 
 ##  Estatísticas
 
-<div>
+<div align="center">
     <img align="center" width="500px"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=crohnaro&layout=compact&langs_count=16&theme=dark"/>
 </div>
   
