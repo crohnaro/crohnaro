@@ -5,7 +5,7 @@
 
 <div align = "center" >
    <h1>Olá! Me chamo Vinicios!</h1>
-   <h2> O trabalho duro ganha do talento quando o talento não trabalha duro.</h2>
+   <h2> "O trabalho duro ganha do talento quando o talento não trabalha duro." -Kevin Durant</h2>
 </div>
   
    
