@@ -5,11 +5,10 @@
 
 <div align = "center" >
    <h1>Olá! Me chamo Vinicios!</h1>
+   <h2> O trabalho duro ganha do talento quando o talento não trabalha duro.</h2>
 </div>
   
-   <div align = "center">
-   <br>
-   <br>
+   
    <div align = "center" >
       <h4> :star: Sou um Desenvolvedor Front-End/Full-Stack :star:</h4>
       <h4> :school: Graduando Sistemas da Informação :school: </h4>
