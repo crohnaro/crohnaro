@@ -1,5 +1,5 @@
  <div align = "center" >
- <img align = "center" alt="Me" widht"300px" src="https://64.media.tumblr.com/2d0af9c90d1b1107313cc20bda01548a/tumblr_outwxnanpp1u79o2lo1_1280.gifv">
+ <img align = "center" alt="Me" widht"200px" src="https://64.media.tumblr.com/2d0af9c90d1b1107313cc20bda01548a/tumblr_outwxnanpp1u79o2lo1_1280.gifv">
  </div>
 
 
