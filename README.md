@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello! My name is Vinicios Cararine and I am a full stack developer with expertise in UX/UI design. With skills in both front-end and back-end, I am capable of working in all stages of web application development, from creating user interfaces to setting up servers and databases.
+Hello! My name is Vinicios Cararine and I'm a full stack developer with expertise in UX/UI design. With skills in both front-end and back-end, I am capable of working in all stages of web application development, from creating user interfaces to setting up servers and databases.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/__vini.dev/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinicios-cararine/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/caraibergcanaro) 
