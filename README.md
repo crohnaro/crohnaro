@@ -1,10 +1,10 @@
-# 💫 About Me:
+# 💫 Sobre mim:
 Olá! Sou Vinicios, desenvolvedor Full-Stack com foco no Front-End. Iniciei minha trajetória na área de Infraestrutura e redes, mas durante a faculdade de Sistemas de Informação, descobri minha afinidade pelo desenvolvimento.
 Curso atualmente Pós Graduação em Engenharia de Software.
 
-Possuo conhecimento em diversas tecnologias e experiência em UX/UI. Acredito firmemente que a paixão aliada ao empenho são essenciais para concretizar ideias. Estou entusiasmado para contribuir e realizar um trabalho de qualidade em equipe. Espero podermos colaborar juntos!
+Possuo conhecimento em diversas tecnologias e experiência em UX/UI. Acredito firmemente que a paixão aliada ao empenho são essenciais para concretizar ideias. Estou entusiasmado para contribuir e realizar um trabalho de qualidade em equipe. Espero podermos colaborar juntos!!
 
-## 🌐 Socials:
+## 🌐 Redes Sociais:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/__vini.dev/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinicios-cararine/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/caraibergcanaro) 
 
 # 💻 Tech Stack:
