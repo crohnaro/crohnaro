@@ -1,5 +1,5 @@
 # 💫 Sobre mim:
-Olá! Sou Vinicios, Professor e Software Engineer. Iniciei minha trajetória na área de Infraestrutura e redes, mas durante a faculdade de Sistemas de Informação, descobri minha afinidade pelo desenvolvimento.
+Olá! Sou Vinicios, Professor e Software Engineer. Iniciei minha trajetória na área de Infraestrutura e Redes, mas durante a faculdade de Sistemas de Informação, descobri minha afinidade pelo desenvolvimento.
 Curso atualmente Pós Graduação em Engenharia de Software.
 
 Possuo conhecimento em diversas tecnologias e experiência em UX/UI. Acredito firmemente que a paixão aliada ao empenho são essenciais para concretizar ideias. Estou entusiasmado para contribuir e realizar um trabalho de qualidade em equipe. Espero podermos colaborar juntos!!
