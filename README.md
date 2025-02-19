@@ -1,8 +1,15 @@
 # 💫 Sobre mim:
-Olá! Sou Vinicios, Professor e Software Engineer. Iniciei minha trajetória na área de Infraestrutura e Redes, mas durante a faculdade de Sistemas de Informação, descobri minha afinidade pelo desenvolvimento.
-Curso atualmente Pós Graduação em Engenharia de Software.
+Com experiência no desenvolvimento de sistemas escaláveis e na aplicação de inteligência artificial para otimizar processos, minha atuação tem sido marcada pela inovação e eficiência. Atualmente, sou Software Engineer na SplitCare, onde contribuo para a evolução de soluções voltadas para a área da saúde, utilizando Ruby on Rails, Node.js, Fastify, Kubernetes e AWS para criar sistemas de transcrição e análise de consultas médicas em tempo real.
 
-Possuo conhecimento em diversas tecnologias e experiência em UX/UI. Acredito firmemente que a paixão aliada ao empenho são essenciais para concretizar ideias. Estou entusiasmado para contribuir e realizar um trabalho de qualidade em equipe. Espero podermos colaborar juntos!!
+Além disso, atuo como professor no Senac Minas, formando profissionais na área de desenvolvimento web e mobile, com foco em React, Next.js, Node.js, MongoDB, MySQL e metodologias ágeis. Minha missão é capacitar novos talentos e transformar a tecnologia em uma ferramenta acessível e de impacto real no mercado.
+
+Destaques da minha trajetória:
+
+Desenvolvimento de um sistema que transcreve e formata áudios médicos de qualquer tamanho em menos de 10 segundos, revolucionando a produtividade dos profissionais de saúde.
+Aumento da capacidade de requisições da aplicação em 800%, garantindo alta performance e escalabilidade.
+Otimização de um sistema de recrutamento hospitalar, reduzindo em 209% o tempo de processamento de candidatos e tornando o fluxo de contratação mais ágil.
+Coordenação de projetos educacionais simulados, aplicando metodologias ágeis e tecnologias modernas para formar desenvolvedores altamente qualificados.
+Minha formação inclui Bacharelado em Sistemas de Informação e uma Pós-graduação em Engenharia de Software, além de certificações em User Experience. Fluente em inglês e com habilidades em espanhol, busco constantemente aprimorar minhas competências e explorar novas tecnologias.
 
 ## 🌐 Redes Sociais:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/__vini.dev/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinicios-cararine/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/caraibergcanaro) 
